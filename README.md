@@ -2,7 +2,7 @@
 
 > Karros's Eyes Or Edulog's Eyes
 
-Karros has many products with a vision that "Help the students come to school in safety", day by day, thousands of students and drivers and event parents will involve in every trip of the students to school in their own ways. We provide products to our clients, and we also need to defines the Service Level Agreement (SLA) on every products that we are providing, but how can we keep tracking that our products are working well on the vision our our company, which can answer the common questions of clients & users:
+Edulog & Karros has many products with a vision that "Help the students come to school in safety", day by day, thousands of students and drivers and event parents will involve in every trip of the students to school in their own ways. We provide products to our clients, and we also need to defines the Service Level Agreement (SLA) on every products that we are providing, but how can we keep tracking that our products are working well on the vision our our company, which can answer the common questions of clients & users:
 
 - Today we have 700 buses which will pick up 15,000 students, are they all finished their job?
 - How many students are in the bus?
