@@ -38,7 +38,7 @@ SLA Information
 ![SLA Information](./image/sla_info.png)
 
 SLA Defininition
-![SLA Definition](./image/sla_def.png)
+![SLA Definition](./image/sla_definition.png)
 
 SLA Summarize & Message Template
-![SLA Definition](./image/sla_sum.png)
+![SLA Definition](./image/sla_summary.png)
