@@ -2,16 +2,16 @@
 
 > Karros's Eyes Or Edulog's Eyes
 
-Karros has many products with a vision that "Help the students come to school in safety", day by day, thousands of students and drivers and event parents will involve in every trip of the students to school in their own ways. We provide products to our clients, and we also need to defines the Service Level Agreement (SLA) on every products that we are providing, but how can we keep tracking that our products are working well on the vision our our company, which can answer the common questions of clients & users:
+Edulog & Karros has many products with a vision that "Help the students come to school in safety", day by day, thousands of students and drivers and even parents will involve in every trip of the students to school in their own ways. We provide products to our clients, and we also need to defines the Service Level Agreement (SLA) on every products that we are providing, but how can we keep tracking that our products are working well on the vision of our company, which can answer the common questions of clients & users:
 
 - Today we have 700 buses which will pick up 15,000 students, are they all finished their jobs?
 - How many students are in a specific bus or group of buses?
 - Is there any bus that was mis-picking up students?
 - ....
 
-Those questions can be resolve by Keyes (Karros's Eyes) or Eyes (Edulog's Eyes)
-Keyes / Eyes is designed base on the idea of the God's Eyes in Fast & Furious Series. It can collect insight & useful data from all of the products of Edulog & Karros (eTM, Athena, DriverPortal, ParentPortal, ...) summarize them base on the SLA that customers defined and feeds information gathered back to its user "under four minutes or less" to use to their whims.
-It will give clients the ability to define their own SLA conditions, in their concern, and verify it in realtime or schedule for it to check frequently.
+Those Needs can be resolve by Keyes (Karros's Eyes) or Eyes (Edulog's Eyes)
+Keyes / Eyes is designed base on the idea of the God's Eyes in Fast & Furious Series. It can collect insight & useful data from all of the products of Edulog & Karros (eTM, Athena, DriverPortal, ParentPortal, ...) summarize them base on the SLA that customers defined and feeds information gathered back to its user "in seconds" to use to their whims.
+It will give clients the ability to define their own SLA conditions, on their concerns, and verify it in realtime or schedule for it to check frequently.
 
 SLA conditions can be like these:
 
